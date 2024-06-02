@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://instagram.com/dngda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Danang Dwiyoga | Instagram" height="25" /></a>
-<a href="https://twitter.com/n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Danang Dwiyoga | Twitter" height="25" width="40" /></a>
+<a href="https://twitter.com/n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Danang Dwiyoga | Twitter" height="25" width="40" /></a>
 </p>
 
 <p>Wassup, I'm Danang Dwiyoga A, a Bachelor of Informatics Engineering Education from Indonesia. </p>

@@ -1,11 +1,11 @@
 ### Hi, there!! 👋
 
 <p align="left">
-<a href="https://instagram.com/dngda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Danang Dwiyoga | Instagram" height="25" /></a>
-<a href="https://twitter.com/n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Danang Dwiyoga | Twitter" height="25" width="40" /></a>
+<a href="https://instagram.com/sxoo.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Danang Dwiyoga | Instagram" height="25" /></a>
+<a href="https://wa.me/6288223674569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Danang Dwiyoga | Twitter" height="25" width="40" /></a>
 </p>
 
-<p>Wassup, I'm Danang Dwiyoga A, a Bachelor of Informatics Engineering Education from Indonesia. </p>
+<p>Hi, my name is Nain Nadika, I am a web developer </p>
 
 ![](https://komarev.com/ghpvc/?username=dngda&color=blueviolet)
 

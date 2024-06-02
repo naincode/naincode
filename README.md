@@ -7,7 +7,7 @@
 
 <p>Hi, my name is Nain Nadika, I am a web developer </p>
 
-![](https://komarev.com/ghpvc/?username=dngda&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=naincode&color=blueviolet)
 
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning Backend-ist.

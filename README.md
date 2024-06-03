@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning Backend-ist.
-- 💬 Ask me about anything [here](https://github.com/dngda/dngda/issues)
+- 💬 Ask me about anything [here](https://github.com/dngda/naincode/issues)
 
 **Languages and Tools:**  
 
